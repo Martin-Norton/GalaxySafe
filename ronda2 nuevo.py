@@ -8,8 +8,7 @@ import random
 
 pygame.init()
 pygame.font.init() 
-pygame.mixer.music.load("paseNivel.wav") 
-pygame.display.set_caption("OFIRCA 2023 - Ronda 2 - Inicio")
+pygame.mixer.music.load("paseNivel.wav")
 pantalla= pygame.display.set_mode((1152,648))
 tipografia = pygame.font.SysFont('Arial', 18)
 tipografiaGrande=pygame.font.SysFont('Arial', 24)

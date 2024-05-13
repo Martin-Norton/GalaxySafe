@@ -1,0 +1,845 @@
+
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+ mmm: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+martin: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+mmm+: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+jlhjhil: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+huighui: 0
+uohyugyuk: 32
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+uohyugyuk: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+TIAGO: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 11
+GASPAR: 0
+GASPAR: 0
+GASPAR: 12
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+GASPAR: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+JUGADOR 1: 0
+COBY: 0
+COBY: 0
+COBY: 0
+COBY: 0
+COBY: 0
+COBY: 0
+COBY: 0
+COBY: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+gaspar: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
+HHH: 0
